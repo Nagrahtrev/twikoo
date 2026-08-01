@@ -1,7 +1,7 @@
 {
-  "name": "twikoo-vercel",
-  "version": "1.0.0",
-  "dependencies": {
-    "twikoo-vercel": "latest"
-  }
+    "name": "twikoo-vercel",
+    "version": "1.0.0",
+    "dependencies": {
+      "twikoo-vercel": "latest"
+    }
 }
